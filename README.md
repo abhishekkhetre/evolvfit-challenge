@@ -12,3 +12,6 @@ npm run json-server
 test@gmail.com
 # Password=
 test
+
+# Github pages link
+https://abhishekkhetre.github.io/evolvfit-challenge/
