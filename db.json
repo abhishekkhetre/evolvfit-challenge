@@ -1,0 +1,60 @@
+{
+  "dishes": [
+    {
+      "id": 2,
+      "name": "Apple",
+      "protein": "12",
+      "carbs": "43",
+      "fats": "4",
+      "calories": "87"
+    },
+    {
+      "id": 1,
+      "name": "Banana",
+      "protein": "12",
+      "carbs": "43",
+      "fats": "4",
+      "calories": "42"
+    },
+    {
+      "name": "Milk",
+      "protein": "45",
+      "carbs": "11",
+      "fats": "32",
+      "calories": "99",
+      "id": 5
+    },
+    {
+      "name": "Mango",
+      "protein": "66",
+      "carbs": "7",
+      "fats": "99",
+      "calories": "88",
+      "id": 6
+    },
+    {
+      "name": "Curd",
+      "protein": "88",
+      "carbs": "65",
+      "fats": "77",
+      "calories": "8",
+      "id": 7
+    },
+    {
+      "name": "Olives",
+      "protein": "89",
+      "carbs": "67",
+      "fats": "78",
+      "calories": "45",
+      "id": 8
+    },
+    {
+      "name": "Rice",
+      "protein": "77",
+      "carbs": "99",
+      "fats": "99",
+      "calories": "88",
+      "id": 9
+    }
+  ]
+}
