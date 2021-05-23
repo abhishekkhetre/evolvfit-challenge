@@ -1,6 +1,7 @@
 # Getting Started with EvolvFit challenge
 # run following commands initially
 npm install
+# Then run
 npm start
 # open new terminal and run simultaneously with npm start the following command
 npm run json-server
